@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Bilgisayar+Mühendisiyim;Frontend+ve+Backend+ile+ilgileniyorum;React+%7C+Python+%7C+Java+%7C+JS+%7C+C%23;Gelişmeyi+seven+bir+yazılımcıyım!+💡" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Merve1277&label=Ziyaretçi+Sayısı&color=brightgreen" alt="Ziyaretçi Sayısı" />
-</p>
-
 ---
 
 ## 🙋‍♀️ Hakkımda
@@ -15,7 +11,7 @@
 - 🎓 Bilgisayar Mühendisliği 4. sınıf öğrencisiyim (2025 mezunu)  
 - 💻 HTML, CSS, JavaScript, Python, Java ile projeler geliştirdim  
 - 🧠 C# diline hakimim, fakat proje geliştirme fırsatım olmadı  
-- ⚛️ React’e yeni başladım,   
+- ⚛️ React’e yeni başladım,  
 - 🎯 Hedefim: Full Stack Developer olarak web projeleri geliştirmek  
 - 📌 Web Development, Görüntü İşleme ve Veri Bilimi alanlarına ilgim var  
 
@@ -49,7 +45,7 @@
 
 ## 🌱 Şu Anda Öğreniyorum
 
- 
+- ⚛️ React JS’e yeni başladım, temel kavramları öğreniyorum  
 - 🧠 JavaScript mantığını derinleştiriyorum  
 - ✨ Projelerde daha fazla deneyim kazanmak istiyorum  
 - 💬 Teknik İngilizce üzerinde çalışıyorum  
@@ -84,12 +80,11 @@
   </a>
 </p>
 
-
 ---
 
-  
-> Teşekkür ederim, profilime uğradığın için! 🌸 👀
-## Hi there 👋
+> 💬 Teşekkür ederim, profilime uğradığın için! 🌸  
+> 👋 See you soon!
+
 
 <!--
 **Merve1277/Merve1277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
