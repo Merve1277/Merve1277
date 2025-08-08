@@ -1,7 +1,5 @@
 <!-- ÜST BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/7z9gG8S.png" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">✨ Merhaba, ben Merve! 👩‍💻</h1>
 
