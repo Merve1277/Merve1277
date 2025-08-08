@@ -1,19 +1,24 @@
+<!-- ÜST BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/7z9gG8S.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">✨ Merhaba, ben Merve! 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Bilgisayar+Mühendisiyim;Frontend+ve+Backend+ile+ilgileniyorum;React+%7C+Python+%7C+Java+%7C+JS+%7C+C%23;Gelişmeyi+seven+bir+yazılımcıyım!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Bilgisayar+Mühendisiyim;Frontend+ve+Backend+ile+ilgileniyorum;React+%7C+Python+%7C+Java+%7C+JS+%7C+C%23;Gelişmeyi+seven+bir+yazılımcıyım!+💡" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♀️ Hakkımda
 
-- 🎓 Bilgisayar Mühendisliği 4. sınıf öğrencisiyim (2025 mezunu)  
-- 💻 HTML, CSS, JavaScript, Python, Java ile projeler geliştirdim  
-- 🧠 C# diline hakimim, fakat proje geliştirme fırsatım olmadı  
-- ⚛️ React’e yeni başladım,  
-- 🎯 Hedefim: Full Stack Developer olarak web projeleri geliştirmek  
-- 📌 Web Development, Görüntü İşleme ve Veri Bilimi alanlarına ilgim var  
+- 🎓 **Eğitim:** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim (2025 mezunu)  
+- 💻 **Tecrübem:** HTML, CSS, JavaScript, Python, Java ile projeler geliştirdim  
+- 🧠 **C#:** Mantığını ve sözdizimini biliyorum, proje geliştirme fırsatım olmadı  
+- ⚛️ **React:** Yeni başladım, temel kavramları öğreniyorum  
+- 🎯 **Hedefim:** Full Stack Developer olarak web projeleri geliştirmek  
+- 📌 **İlgi Alanlarım:** Web Development, Görüntü İşleme, Veri Bilimi  
 
 ---
 
@@ -44,11 +49,18 @@
 ---
 
 ## 🌱 Şu Anda Öğreniyorum
+<p>
+  <img src="https://img.shields.io/badge/React-Basics-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/English-Technical-blueviolet?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
 
-- ⚛️ React JS’e yeni başladım, temel kavramları öğreniyorum  
-- 🧠 JavaScript mantığını derinleştiriyorum  
-- ✨ Projelerde daha fazla deneyim kazanmak istiyorum  
-- 💬 Teknik İngilizce üzerinde çalışıyorum  
+---
+
+## 🚀 Öne Çıkan Projeler
+- [🎵 **Music Player**](https://github.com/Merve1277/music-player) — HTML, CSS, JS ile modern müzik çalar  
+- [🎬 **Sinema Bileti Rezervasyonu**](https://github.com/Merve1277/sinema-bileti-rezervasyonu) — Basit bilet rezervasyon sistemi  
+- [🧠 **Skolyoz Modelleme**](https://github.com/Merve1277/skolyoz-modelleme) — Görüntü işleme projesi  
 
 ---
 
@@ -70,7 +82,6 @@
 ---
 
 ## 📫 Bana Ulaş
-
 <p>
   <a href="mailto:mgor29372@gmail.com">
     <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -82,6 +93,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 > 💬 Teşekkür ederim, profilime uğradığın için! 🌸  
 > 👋 See you soon!
 
