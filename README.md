@@ -58,17 +58,6 @@
 
 ---
 
-## 🚀 Öne Çıkan Projeler
-
-| 🧩 Proje | 📝 Açıklama | 🛠️ Teknolojiler |
-|----------|-------------|----------------|
-| [⚙️ **Hardware Inventory System (Private Repo)**](https://github.com/Merve1277/hardware-inventory-system) | Belediye için donanım & yazılım envanteri yöneten sistem | Node.js · Express · React · TypeScript · PostgreSQL · JWT · Docker |
-| [🎵 **Music Player**](https://github.com/Merve1277/music-player) | HTML, CSS ve JS ile modern müzik çalar | HTML · CSS · JavaScript |
-| [🎬 **Sinema Bileti Rezervasyonu**](https://github.com/Merve1277/sinema-bileti-rezervasyonu) | Bilet rezervasyon uygulaması | HTML · CSS · JavaScript |
-| [🧠 **Skolyoz Modelleme**](https://github.com/Merve1277/skolyoz-modelleme) | Görüntü işleme ile medikal modelleme | Python · OpenCV · HoG/GLCM |
-
----
-
 ## 📊 GitHub İstatistikleri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Merve1277&show_icons=true&theme=tokyonight" />
