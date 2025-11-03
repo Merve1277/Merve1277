@@ -1,7 +1,7 @@
 <h1 align="center">✨ Merhaba, ben Merve! 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Bilgisayar+Mühendisiyim;Backend+ve+Full+Stack+Geliştirme+ile+ilgileniyorum;C%23+%7C+ASP.NET+%7C+Python+%7C+JavaScript;Gelişmeyi+seven+bir+yazılımcıyım!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Bilgisayar+Mühendisiyim;Backend+ve+Full+Stack+Geliştirme+ile+ilgileniyorum;Node.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL;Gelişmeyi+seven+bir+yazılımcıyım!+💡" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
   Şu anda **Node.js, Express.js, React, TypeScript, PostgreSQL, JWT ve Docker** kullanarak **Hardware Inventory System** projesi geliştiriyorum.  
 - 🧠 **C#:** ASP.NET MVC ve Docker üzerinde projeler oluşturdum  
 - 🐳 **Docker:** Hot Reload ve container tabanlı geliştirme ortamları kuruyorum  
-- 🎯 **Hedefim:** Backend veya Full Stack Developer olarak profesyonel projeler geliştirmek  
+- 🎯 **Hedefim:** Backend veya Full Stack Developer olarak profesyonel web projeleri geliştirmek  
 - 📌 **İlgi Alanlarım:** Web Development · Görüntü İşleme · Veri Bilimi
 
 ---
@@ -21,17 +21,21 @@
 
 ### 💻 Diller
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 ### ⚙️ Web & Backend
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🛠️ Araçlar
@@ -47,8 +51,8 @@
 ## 🌱 Şu Anda Öğreniyorum
 <p>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Development-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/English-Technical-blueviolet?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
@@ -58,11 +62,10 @@
 
 | 🧩 Proje | 📝 Açıklama | 🛠️ Teknolojiler |
 |----------|-------------|----------------|
-| [⚙️ **Hardware Inventory System (Private Repo)**](https://github.com/Merve1277/hardware-inventory-system) | Belediye için donanım & yazılım envanteri yöneten sistem | Node.js · Express · PostgreSQL · React · JWT |
+| [⚙️ **Hardware Inventory System (Private Repo)**](https://github.com/Merve1277/hardware-inventory-system) | Belediye için donanım & yazılım envanteri yöneten sistem | Node.js · Express · React · TypeScript · PostgreSQL · JWT · Docker |
 | [🎵 **Music Player**](https://github.com/Merve1277/music-player) | HTML, CSS ve JS ile modern müzik çalar | HTML · CSS · JavaScript |
-| [🎬 **Sinema Bileti Rezervasyonu**](https://github.com/Merve1277/sinema-bileti-rezervasyonu) | Bilet rezervasyon uygulaması | HTML · CSS · JS |
+| [🎬 **Sinema Bileti Rezervasyonu**](https://github.com/Merve1277/sinema-bileti-rezervasyonu) | Bilet rezervasyon uygulaması | HTML · CSS · JavaScript |
 | [🧠 **Skolyoz Modelleme**](https://github.com/Merve1277/skolyoz-modelleme) | Görüntü işleme ile medikal modelleme | Python · OpenCV · HoG/GLCM |
-
 
 ---
 
