@@ -7,12 +7,13 @@
 ---
 
 ## 🙋‍♀️ Hakkımda
-- 🎓 **İnönü Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**   
-- 💻 **Deneyim:** HTML, CSS, JavaScript, Python, Java ve C# ile projeler geliştirdim  
-- 🧠 **C#:** ASP.NET MVC ve Docker üzerinde çalışıyorum  
-- 🐳 **Docker:** Hot Reload ile dinamik geliştirme ortamı oluşturuyorum  
+- 🎓 **İnönü Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** (2025 mezunu)  
+- 💻 **Deneyim:** HTML, CSS, JavaScript, Python, Java ve C# ile projeler geliştirdim.  
+  Şu anda **Node.js, Express.js, React, TypeScript, PostgreSQL, JWT ve Docker** kullanarak **Hardware Inventory System** projesi geliştiriyorum.  
+- 🧠 **C#:** ASP.NET MVC ve Docker üzerinde projeler oluşturdum  
+- 🐳 **Docker:** Hot Reload ve container tabanlı geliştirme ortamları kuruyorum  
 - 🎯 **Hedefim:** Backend veya Full Stack Developer olarak profesyonel projeler geliştirmek  
-- 📌 **İlgi Alanlarım:** Web Development · Görüntü İşleme · Veri Bilimi  
+- 📌 **İlgi Alanlarım:** Web Development · Görüntü İşleme · Veri Bilimi
 
 ---
 
